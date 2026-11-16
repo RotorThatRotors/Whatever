@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('End of the day')
+    print('What an awesome print!')
 
 
 def main():
@@ -12,5 +12,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-print(1)
