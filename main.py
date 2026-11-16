@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('Lock in yet demoed')
+    print('End of the day')
 
 
 def main():
